@@ -428,6 +428,21 @@ pubmatic.com, 92509, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 13856, RESELLER, 0bfd66d529a55807
 smartadserver.com, 1692, RESELLER
 indexexchange.com, 198417, RESELLER, 50b1c356f2c5c8fc
+pubnative.net, 1008379, RESELLER, d641df8625486a7b
+pubmatic.com, 161136, RESELLER, 5d62403b186f2ace
+smartadserver.com, 4457, RESELLER, 060d053dcf45cbf3
+opera.com, pub5865193350528, RESELLER, 55a0c5fd61378de3
+hyperad.tech, 172, RESELLER
+hyperad.tech, 182, RESELLER
+tpmn.io, 664, RESELLER
+advlion.com, 3083, RESELLER
+advlion.com, 3054, RESELLER
+advlion.com, 3108, RESELLER
+betweendigital.com, 44659, RESELLER
+betweendigital.com, 44659, RESELLER
+pubnative.net, 1007475, RESELLER, d641df8625486a7b
+pubnative.net, 1007303, RESELLER, d641df8625486a7b
+pubnative.net, 1007311, RESELLER, d641df8625486a7b
 google.com, pub-2218022887875738, DIRECT, f08c47fec0942fa0
 facebook.com, 2387761998053999, RESELLER, 238580742059528
 facebook.com, 2387761998053999, RESELLER, 282203180813389
